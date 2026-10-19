@@ -1,0 +1,6 @@
+{
+  "asset": "/assets/fish-source-pastel.png",
+  "source": "终稿-0723.pdf 第28页内嵌 Image132.jpg；沿用已提取的 fish-principal-source.png",
+  "processing": "原装饰图去除边缘3px嵌入线，再仅移除与外边缘连通的白色底，保留封闭高光。源RGB不变；不生成、不补绘。医学图像不处理。",
+  "style_reference": "用户提供的浅粉/冰蓝科普影展海报"
+}

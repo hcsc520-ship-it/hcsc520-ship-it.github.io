@@ -1,0 +1,122 @@
+[
+  {
+    "id": 18,
+    "board": "/assets/boards/18.jpg",
+    "crop": [
+      102,
+      1255,
+      475,
+      1610
+    ],
+    "image": "/assets/context/18.png",
+    "processing": "Exact rectangular crop from supplied full board. No recoloring or generation."
+  },
+  {
+    "id": 19,
+    "board": "/assets/boards/19.jpg",
+    "crop": [
+      103,
+      1255,
+      480,
+      1600
+    ],
+    "image": "/assets/context/19.png",
+    "processing": "Exact rectangular crop from supplied full board. No recoloring or generation."
+  },
+  {
+    "id": 20,
+    "board": "/assets/boards/20.jpg",
+    "crop": [
+      103,
+      1255,
+      550,
+      1570
+    ],
+    "image": "/assets/context/20.png",
+    "processing": "Exact rectangular crop from supplied full board. No recoloring or generation."
+  },
+  {
+    "id": 21,
+    "board": "/assets/boards/21.jpg",
+    "crop": [
+      103,
+      1255,
+      600,
+      1570
+    ],
+    "image": "/assets/context/21.png",
+    "processing": "Exact rectangular crop from supplied full board. No recoloring or generation."
+  },
+  {
+    "id": 22,
+    "board": "/assets/boards/22.jpg",
+    "crop": [
+      103,
+      1255,
+      600,
+      1595
+    ],
+    "image": "/assets/context/22.png",
+    "processing": "Exact rectangular crop from supplied full board. No recoloring or generation."
+  },
+  {
+    "id": 23,
+    "board": "/assets/boards/23.jpg",
+    "crop": [
+      103,
+      1255,
+      495,
+      1570
+    ],
+    "image": "/assets/context/23.png",
+    "processing": "Exact rectangular crop from supplied full board. No recoloring or generation."
+  },
+  {
+    "id": 24,
+    "board": "/assets/boards/24.jpg",
+    "crop": [
+      103,
+      1255,
+      605,
+      1595
+    ],
+    "image": "/assets/context/24.png",
+    "processing": "Exact rectangular crop from supplied full board. No recoloring or generation."
+  },
+  {
+    "id": 25,
+    "board": "/assets/boards/25.jpg",
+    "crop": [
+      103,
+      1255,
+      605,
+      1600
+    ],
+    "image": "/assets/context/25.png",
+    "processing": "Exact rectangular crop from supplied full board. No recoloring or generation."
+  },
+  {
+    "id": 26,
+    "board": "/assets/boards/26.jpg",
+    "crop": [
+      103,
+      1255,
+      605,
+      1600
+    ],
+    "image": "/assets/context/26.png",
+    "processing": "Exact rectangular crop from supplied full board. No recoloring or generation."
+  },
+  {
+    "id": 27,
+    "board": "/assets/boards/27.jpg",
+    "crop": [
+      103,
+      1255,
+      605,
+      1600
+    ],
+    "image": "/assets/context/27.png",
+    "processing": "Exact rectangular crop from supplied full board. No recoloring or generation."
+  }
+]

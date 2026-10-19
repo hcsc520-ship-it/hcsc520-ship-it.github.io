@@ -1,0 +1,882 @@
+{
+  "source": "/Users/apple/Downloads/07. 展品图",
+  "statement": "所有作品图像均来自院方提供的展品原图。处理仅包含 EXIF 方向校正、等比缩放与 JPEG 编码；未做调色、重绘、修补、生成式填充或形变。唯一例外见 id 28 的 cropBox 记录（去除手机截图界面）。",
+  "mainMaxSide": 2000,
+  "contextMaxSide": 1200,
+  "works": [
+    {
+      "id": 9,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/01-展区一（真实）/01. 带刺的玫瑰.jpg",
+        "sourceSize": [
+          1830,
+          951
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/9.jpg",
+        "outputSize": [
+          1830,
+          951
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": null,
+      "note": ""
+    },
+    {
+      "id": 10,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/01-展区一（真实）/02. 豆影深处.jpg",
+        "sourceSize": [
+          1830,
+          951
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/10.jpg",
+        "outputSize": [
+          1830,
+          951
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": null,
+      "note": ""
+    },
+    {
+      "id": 11,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/01-展区一（真实）/03. 黑洞.png",
+        "sourceSize": [
+          1264,
+          677
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/11.jpg",
+        "outputSize": [
+          1264,
+          677
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": null,
+      "note": ""
+    },
+    {
+      "id": 12,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/01-展区一（真实）/04. 生命之树.jpg",
+        "sourceSize": [
+          1830,
+          951
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/12.jpg",
+        "outputSize": [
+          1830,
+          951
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": null,
+      "note": ""
+    },
+    {
+      "id": 13,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/01-展区一（真实）/05.触觉年轮.png",
+        "sourceSize": [
+          1758,
+          1024
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/13.jpg",
+        "outputSize": [
+          1758,
+          1024
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": null,
+      "note": ""
+    },
+    {
+      "id": 14,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/01-展区一（真实）/06. 玫瑰未央.jpg",
+        "sourceSize": [
+          1830,
+          951
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/14.jpg",
+        "outputSize": [
+          1830,
+          951
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": null,
+      "note": ""
+    },
+    {
+      "id": 15,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/01-展区一（真实）/07. 爱意·菊影.jpg",
+        "sourceSize": [
+          1916,
+          987
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/15.jpg",
+        "outputSize": [
+          1916,
+          987
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": null,
+      "note": ""
+    },
+    {
+      "id": 16,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/01-展区一（真实）/08. 并不温柔的爱.jpg",
+        "sourceSize": [
+          1188,
+          1042
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/16.jpg",
+        "outputSize": [
+          1188,
+          1042
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": null,
+      "note": ""
+    },
+    {
+      "id": 17,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/01-展区一（真实）/09. 靴子.png",
+        "sourceSize": [
+          425,
+          846
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/17.jpg",
+        "outputSize": [
+          425,
+          846
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": null,
+      "note": ""
+    },
+    {
+      "id": 18,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/01. 美杜莎的“蛇发”/美杜莎的“蛇发”-1.jpg",
+        "sourceSize": [
+          985,
+          555
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/18.jpg",
+        "outputSize": [
+          985,
+          555
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/01. 美杜莎的“蛇发”/美杜莎的“蛇发”-2.jpg",
+        "sourceSize": [
+          1229,
+          1648
+        ],
+        "output": "/assets/originals/18-context.jpg",
+        "outputSize": [
+          895,
+          1200
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 19,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/02. 蝶翼.jpg",
+        "sourceSize": [
+          1080,
+          1439
+        ],
+        "cropBox": [
+          9,
+          9,
+          1072,
+          893
+        ],
+        "output": "/assets/originals/19.jpg",
+        "outputSize": [
+          1063,
+          884
+        ],
+        "operations": [
+          "exif-orientation",
+          "rect-crop"
+        ]
+      },
+      "context": null,
+      "note": "源文件为三联拼图（上：彩色甲状腺显像正面板；下左：灰度面板；下右：伪彩面板）。原展板《蝶翼》仅呈现上方正面板，故站点作品图按展板构图裁取该面板，另存三联原图为 /assets/originals/19-triptych-src.jpg。",
+      "compositeBackup": "/assets/originals/19-triptych-src.jpg"
+    },
+    {
+      "id": 20,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/03. 小岛.jpg",
+        "sourceSize": [
+          380,
+          301
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/20.jpg",
+        "outputSize": [
+          380,
+          301
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": null,
+      "note": ""
+    },
+    {
+      "id": 21,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/04. 生命的纹理/5-1.png",
+        "sourceSize": [
+          3428,
+          2108
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/21.jpg",
+        "outputSize": [
+          2000,
+          1230
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/04. 生命的纹理/5-2.png",
+        "sourceSize": [
+          1524,
+          616
+        ],
+        "output": "/assets/originals/21-context.jpg",
+        "outputSize": [
+          1200,
+          485
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 22,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/10. 秋天的银杏叶/IMG_20250905_163902.jpg",
+        "sourceSize": [
+          4096,
+          3072
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/22.jpg",
+        "outputSize": [
+          2000,
+          1500
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/10. 秋天的银杏叶/银杏实图.png",
+        "sourceSize": [
+          533,
+          760
+        ],
+        "output": "/assets/originals/22-context.jpg",
+        "outputSize": [
+          533,
+          760
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": "选用同组中取景更紧的一张显微镜原图 (…163902)，另一张 …163841 为同一次拍摄的较宽视野。"
+    },
+    {
+      "id": 23,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/05. “花生”胆囊/“花生”胆囊-1.png",
+        "sourceSize": [
+          820,
+          789
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/23.jpg",
+        "outputSize": [
+          820,
+          789
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/05. “花生”胆囊/“花生”胆囊-2.png",
+        "sourceSize": [
+          652,
+          402
+        ],
+        "output": "/assets/originals/23-context.jpg",
+        "outputSize": [
+          652,
+          402
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 24,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/06. 体内的盐湖/4-1.png",
+        "sourceSize": [
+          2768,
+          1704
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/24.jpg",
+        "outputSize": [
+          2000,
+          1231
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/06. 体内的盐湖/4-2.png",
+        "sourceSize": [
+          1328,
+          980
+        ],
+        "output": "/assets/originals/24-context.jpg",
+        "outputSize": [
+          1200,
+          886
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 25,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/07. 撒哈拉之眼/3-1.png",
+        "sourceSize": [
+          3428,
+          2108
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/25.jpg",
+        "outputSize": [
+          2000,
+          1230
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/07. 撒哈拉之眼/3-2.png",
+        "sourceSize": [
+          1352,
+          868
+        ],
+        "output": "/assets/originals/25-context.jpg",
+        "outputSize": [
+          1200,
+          770
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 26,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/08. 萌芽/1-1.png",
+        "sourceSize": [
+          1892,
+          1456
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/26.jpg",
+        "outputSize": [
+          1892,
+          1456
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/08. 萌芽/1-2.png",
+        "sourceSize": [
+          1096,
+          776
+        ],
+        "output": "/assets/originals/26-context.jpg",
+        "outputSize": [
+          1096,
+          776
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 27,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/09. 水库/2-1.png",
+        "sourceSize": [
+          3428,
+          2108
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/27.jpg",
+        "outputSize": [
+          2000,
+          1230
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/02-展区二（光影）/09. 水库/2-2.png",
+        "sourceSize": [
+          1040,
+          736
+        ],
+        "output": "/assets/originals/27-context.jpg",
+        "outputSize": [
+          1040,
+          736
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 28,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/01.摇曳的鱼尾/01. 摇曳的鱼尾.jpg",
+        "sourceSize": [
+          1200,
+          2664
+        ],
+        "cropBox": [
+          0,
+          798,
+          1200,
+          1772
+        ],
+        "output": "/assets/originals/28.jpg",
+        "outputSize": [
+          1200,
+          974
+        ],
+        "operations": [
+          "exif-orientation",
+          "rectangular-crop"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/01.摇曳的鱼尾/脑神经图.png",
+        "sourceSize": [
+          643,
+          591
+        ],
+        "output": "/assets/originals/28-context.jpg",
+        "outputSize": [
+          643,
+          591
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": "原文件是手机截图，底部带系统手势条。仅做矩形裁切去除截图界面，不改变图像内容。"
+    },
+    {
+      "id": 29,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/02. 镜头下的波点/新生隐球菌.jpg",
+        "sourceSize": [
+          1279,
+          1706
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/29.jpg",
+        "outputSize": [
+          1279,
+          1706
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/02. 镜头下的波点/草间弥生圆点和圆点(QASTOL).png",
+        "sourceSize": [
+          513,
+          458
+        ],
+        "output": "/assets/originals/29-context.jpg",
+        "outputSize": [
+          513,
+          458
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 30,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/03.向阳而生/03. 向阳而生.jpg",
+        "sourceSize": [
+          1174,
+          1047
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/30.jpg",
+        "outputSize": [
+          1174,
+          1047
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/03.向阳而生/原型.png",
+        "sourceSize": [
+          284,
+          307
+        ],
+        "output": "/assets/originals/30-context.jpg",
+        "outputSize": [
+          284,
+          307
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 31,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/04. 埃菲尔铁塔/硬脑膜.jpg",
+        "sourceSize": [
+          1080,
+          1173
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/31.jpg",
+        "outputSize": [
+          1080,
+          1173
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/04. 埃菲尔铁塔/埃菲尔铁塔.jpg",
+        "sourceSize": [
+          500,
+          800
+        ],
+        "output": "/assets/originals/31-context.jpg",
+        "outputSize": [
+          500,
+          800
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 32,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/05.呼吸之重/呼吸之重-1.jpg",
+        "sourceSize": [
+          1024,
+          1024
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/32.jpg",
+        "outputSize": [
+          1024,
+          1024
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/05.呼吸之重/烟曲霉菌.png",
+        "sourceSize": [
+          542,
+          544
+        ],
+        "output": "/assets/originals/32-context.jpg",
+        "outputSize": [
+          542,
+          544
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 33,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/06. 掉落的盾牌/掉落的盾牌.jpg",
+        "sourceSize": [
+          1024,
+          1024
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/33.jpg",
+        "outputSize": [
+          1024,
+          1024
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/06. 掉落的盾牌/胆固醇结晶.png",
+        "sourceSize": [
+          421,
+          278
+        ],
+        "output": "/assets/originals/33-context.jpg",
+        "outputSize": [
+          421,
+          278
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 34,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/07. 身体的来信/身体的来信.jpg",
+        "sourceSize": [
+          1024,
+          1024
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/34.jpg",
+        "outputSize": [
+          1024,
+          1024
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/07. 身体的来信/草酸钙结晶.png",
+        "sourceSize": [
+          730,
+          607
+        ],
+        "output": "/assets/originals/34-context.jpg",
+        "outputSize": [
+          730,
+          607
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 35,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/08.失衡的世界/08. 失衡的世界.jpg",
+        "sourceSize": [
+          1024,
+          1024
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/35.jpg",
+        "outputSize": [
+          1024,
+          1024
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/08.失衡的世界/线索细胞-原型.png",
+        "sourceSize": [
+          468,
+          351
+        ],
+        "output": "/assets/originals/35-context.jpg",
+        "outputSize": [
+          468,
+          351
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 36,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/09.倒戈/09.倒戈.jpg",
+        "sourceSize": [
+          1024,
+          1024
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/36.jpg",
+        "outputSize": [
+          1024,
+          1024
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/09.倒戈/中性粒细胞PANC（+）.png",
+        "sourceSize": [
+          183,
+          230
+        ],
+        "output": "/assets/originals/36-context.jpg",
+        "outputSize": [
+          183,
+          230
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    },
+    {
+      "id": 37,
+      "main": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/10.承受的瞬间/承受的瞬间.jpg",
+        "sourceSize": [
+          1024,
+          1024
+        ],
+        "cropBox": null,
+        "output": "/assets/originals/37.jpg",
+        "outputSize": [
+          1024,
+          1024
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "context": {
+        "source": "/Users/apple/Downloads/07. 展品图/03-展区三（智绘）/10.承受的瞬间/尿酸钠结晶.png",
+        "sourceSize": [
+          205,
+          256
+        ],
+        "output": "/assets/originals/37-context.jpg",
+        "outputSize": [
+          205,
+          256
+        ],
+        "operations": [
+          "exif-orientation"
+        ]
+      },
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "source": "终稿-0723.pdf page 28 / Image132.jpg",
+  "source_crop": [
+    471,
+    205,
+    1151,
+    565
+  ],
+  "asset": "/assets/fish-whole-source-v2.png",
+  "processing": "Supplied non-medical decorative principal visual. Deterministic edge-connected white-background extraction and dark composition only; no generation, repainting, reconstruction or geometric warp."
+}

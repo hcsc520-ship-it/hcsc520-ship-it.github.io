@@ -1,0 +1,497 @@
+[
+  {
+    "id": 9,
+    "title": "带刺的玫瑰",
+    "source": "展板-9.7.pdf 第 9 页；未命名文件夹/展板-9.7_09.png",
+    "board": "assets/boards/09.jpg",
+    "artwork": "assets/artworks/09.png",
+    "crop_on_2000px_board": [
+      107,
+      620,
+      1240,
+      1300
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "7e773d71dba72850f85144fba4052e40a31652550f7a1e25279f582a14173bff"
+  },
+  {
+    "id": 10,
+    "title": "豆影深处",
+    "source": "展板-9.7.pdf 第 10 页；未命名文件夹/展板-9.7_10.png",
+    "board": "assets/boards/10.jpg",
+    "artwork": "assets/artworks/10.png",
+    "crop_on_2000px_board": [
+      107,
+      620,
+      1240,
+      1230
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "c358d1f8d03017d766ce65ba2e0a74871404a78740d6892e212b639f363818b7"
+  },
+  {
+    "id": 11,
+    "title": "黑洞",
+    "source": "展板-9.7.pdf 第 11 页；未命名文件夹/展板-9.7_11.png",
+    "board": "assets/boards/11.jpg",
+    "artwork": "assets/artworks/11.png",
+    "crop_on_2000px_board": [
+      107,
+      630,
+      1240,
+      1270
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "f8200c7fdb889b3da7a27646317858ec972e2c0112ae136155bcaf87b747ef68"
+  },
+  {
+    "id": 12,
+    "title": "生命之树",
+    "source": "展板-9.7.pdf 第 12 页；未命名文件夹/展板-9.7_12.png",
+    "board": "assets/boards/12.jpg",
+    "artwork": "assets/artworks/12.png",
+    "crop_on_2000px_board": [
+      107,
+      640,
+      1240,
+      1240
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "ef59dbd2ac1b0ba02f0a932acb87a86c78e16936791874ef44283c53cc332b3b"
+  },
+  {
+    "id": 13,
+    "title": "年轮",
+    "source": "展板-9.7.pdf 第 13 页；未命名文件夹/展板-9.7_13.png",
+    "board": "assets/boards/13.jpg",
+    "artwork": "assets/artworks/13.png",
+    "crop_on_2000px_board": [
+      107,
+      640,
+      1240,
+      1240
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "66f5dfa2ac3892d4770245ac4c99c2d08d19da7ca7ae634cf446bf4e1681b24c"
+  },
+  {
+    "id": 14,
+    "title": "玫瑰未央",
+    "source": "展板-9.7.pdf 第 14 页；未命名文件夹/展板-9.7_14.png",
+    "board": "assets/boards/14.jpg",
+    "artwork": "assets/artworks/14.png",
+    "crop_on_2000px_board": [
+      107,
+      640,
+      1240,
+      1250
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "9ad33168ead41a1c6373f1b1faa82de910b3f586c4f9e401e842d1a6b675c636"
+  },
+  {
+    "id": 15,
+    "title": "爱意·菊影",
+    "source": "展板-9.7.pdf 第 15 页；未命名文件夹/展板-9.7_15.png",
+    "board": "assets/boards/15.jpg",
+    "artwork": "assets/artworks/15.png",
+    "crop_on_2000px_board": [
+      117,
+      650,
+      1216,
+      1238
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "570b0fdb4d58096a7d30cd838903ef623110c8eae6518de1793718167ded8d26"
+  },
+  {
+    "id": 16,
+    "title": "并不温柔的爱",
+    "source": "展板-9.7.pdf 第 16 页；未命名文件夹/展板-9.7_16.png",
+    "board": "assets/boards/16.jpg",
+    "artwork": "assets/artworks/16.png",
+    "crop_on_2000px_board": [
+      107,
+      660,
+      1240,
+      1250
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "6e86f5635e45c5eb2c9f7d36b42a0e71c93b4472efa5fc846104cc19ca55eae1"
+  },
+  {
+    "id": 17,
+    "title": "靴子",
+    "source": "展板-9.7.pdf 第 17 页；未命名文件夹/展板-9.7_17.png",
+    "board": "assets/boards/17.jpg",
+    "artwork": "assets/artworks/17.png",
+    "crop_on_2000px_board": [
+      107,
+      640,
+      1240,
+      1290
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "09a4ad28a9d261ee9f28fdfcd9a12263b29804abe71f4cdd19f32a9ac02e5561"
+  },
+  {
+    "id": 18,
+    "title": "美杜莎的“蛇发”",
+    "source": "展板-9.7.pdf 第 18 页；未命名文件夹/展板-9.7_18.png",
+    "board": "assets/boards/18.jpg",
+    "artwork": "assets/artworks-v3/18.png",
+    "crop_on_2000px_board": [
+      108,
+      390,
+      1225,
+      1017
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "06b35342b83d89af39b6f19ad49f31ddd24d9d60e5be87f96cc9687dfed837b4"
+  },
+  {
+    "id": 19,
+    "title": "蝶翼",
+    "source": "展板-9.7.pdf 第 19 页；未命名文件夹/展板-9.7_19.png",
+    "board": "assets/boards/19.jpg",
+    "artwork": "assets/artworks-v3/19.png",
+    "crop_on_2000px_board": [
+      108,
+      390,
+      1225,
+      1017
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "2f845eea5477fca36f4eab98c96813e69b2de1afcf56fcfc993ed5dc5e575f8b"
+  },
+  {
+    "id": 20,
+    "title": "小岛",
+    "source": "展板-9.7.pdf 第 20 页；未命名文件夹/展板-9.7_20.png",
+    "board": "assets/boards/20.jpg",
+    "artwork": "assets/artworks-v3/20.png",
+    "crop_on_2000px_board": [
+      108,
+      390,
+      1225,
+      1017
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "d111439a4b9de1945ec655c1922e3fa4588f3fbcbf656b81d8d3aab49151209d"
+  },
+  {
+    "id": 21,
+    "title": "生命的纹理",
+    "source": "展板-9.7.pdf 第 21 页；未命名文件夹/展板-9.7_21.png",
+    "board": "assets/boards/21.jpg",
+    "artwork": "assets/artworks-v3/21.png",
+    "crop_on_2000px_board": [
+      108,
+      390,
+      1225,
+      1017
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "3ad3fa336d7b108bb7abb2776d40ebba7f37fc4a5733a3bd59985141ef19c3e1"
+  },
+  {
+    "id": 22,
+    "title": "秋天的银杏叶",
+    "source": "展板-9.7.pdf 第 22 页；未命名文件夹/展板-9.7_22.png",
+    "board": "assets/boards/22.jpg",
+    "artwork": "assets/artworks-v3/22.png",
+    "crop_on_2000px_board": [
+      108,
+      390,
+      1225,
+      1017
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "1b567d32c19fd4c8f1b2804cc58cf2a745952afc11b6ab236e672b48517d646d"
+  },
+  {
+    "id": 23,
+    "title": "胆囊里的“花生”",
+    "source": "展板-9.7.pdf 第 23 页；未命名文件夹/展板-9.7_23.png",
+    "board": "assets/boards/23.jpg",
+    "artwork": "assets/artworks-v3/23.png",
+    "crop_on_2000px_board": [
+      108,
+      390,
+      1225,
+      1017
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "5fe88e9bea64608c25a0150faeb1b7c988b470c973b3b5f42b345c85669feb00"
+  },
+  {
+    "id": 24,
+    "title": "体内的盐湖",
+    "source": "展板-9.7.pdf 第 24 页；未命名文件夹/展板-9.7_24.png",
+    "board": "assets/boards/24.jpg",
+    "artwork": "assets/artworks-v3/24.png",
+    "crop_on_2000px_board": [
+      108,
+      390,
+      1225,
+      1017
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "c157b2bfbb2d24971f31d14584725af477e04c7f676c76c0e183375f18a313a7"
+  },
+  {
+    "id": 25,
+    "title": "撒哈拉之眼",
+    "source": "展板-9.7.pdf 第 25 页；未命名文件夹/展板-9.7_25.png",
+    "board": "assets/boards/25.jpg",
+    "artwork": "assets/artworks-v3/25.png",
+    "crop_on_2000px_board": [
+      108,
+      390,
+      1225,
+      1017
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "3da91d5fbcb92f5690db81150a34379478b2b6b543e1aa25b65211909a2b41d6"
+  },
+  {
+    "id": 26,
+    "title": "萌芽",
+    "source": "展板-9.7.pdf 第 26 页；未命名文件夹/展板-9.7_26.png",
+    "board": "assets/boards/26.jpg",
+    "artwork": "assets/artworks-v3/26.png",
+    "crop_on_2000px_board": [
+      108,
+      390,
+      1225,
+      1017
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "3ff9558edb16e3083397d7bcb1677003d4a69618260fc025b79225133dc46c62"
+  },
+  {
+    "id": 27,
+    "title": "水库",
+    "source": "展板-9.7.pdf 第 27 页；未命名文件夹/展板-9.7_27.png",
+    "board": "assets/boards/27.jpg",
+    "artwork": "assets/artworks-v3/27.png",
+    "crop_on_2000px_board": [
+      108,
+      390,
+      1225,
+      1017
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "8caa95c743c274525edd39df961f0255cf1a6372589e1307714d4c2978cd81b6"
+  },
+  {
+    "id": 28,
+    "title": "摇曳的鱼尾",
+    "source": "展板-9.7.pdf 第 28 页；未命名文件夹/展板-9.7_28.png",
+    "board": "assets/boards/28.jpg",
+    "artwork": "assets/artworks-v2/28.png",
+    "crop_on_2000px_board": [
+      100,
+      420,
+      1240,
+      1136
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "f9f40156c40d92058a405caabe4923353cba5572d1e1df07022424f7ffaee91c"
+  },
+  {
+    "id": 29,
+    "title": "镜头下的波点",
+    "source": "展板-9.7.pdf 第 29 页；未命名文件夹/展板-9.7_29.png",
+    "board": "assets/boards/29.jpg",
+    "artwork": "assets/artworks-v2/29.png",
+    "crop_on_2000px_board": [
+      80,
+      400,
+      1253,
+      1190
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "34fdba67dc2f7b1c7f6a62c525718cebbdb04f653aeafd3659b895d176cc00dd"
+  },
+  {
+    "id": 30,
+    "title": "向阳而生",
+    "source": "展板-9.7.pdf 第 30 页；未命名文件夹/展板-9.7_30.png",
+    "board": "assets/boards/30.jpg",
+    "artwork": "assets/artworks-v2/30.png",
+    "crop_on_2000px_board": [
+      80,
+      400,
+      1253,
+      1190
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "c7d1e29321c1c42a15e3e713bc4c00a0176847cf1c958b08fba29163b16cdeec"
+  },
+  {
+    "id": 31,
+    "title": "埃菲尔铁塔",
+    "source": "展板-9.7.pdf 第 31 页；未命名文件夹/展板-9.7_31.png",
+    "board": "assets/boards/31.jpg",
+    "artwork": "assets/artworks-v2/31.png",
+    "crop_on_2000px_board": [
+      80,
+      400,
+      1253,
+      1190
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "794ea74d9df64729c0e13e9f54e29189f87b5ddcf644f5eefad1eae7c077a20d"
+  },
+  {
+    "id": 32,
+    "title": "呼吸之重",
+    "source": "展板-9.7.pdf 第 32 页；未命名文件夹/展板-9.7_32.png",
+    "board": "assets/boards/32.jpg",
+    "artwork": "assets/artworks-v2/32.png",
+    "crop_on_2000px_board": [
+      80,
+      400,
+      1253,
+      1190
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "a5ab6145b17516b54766c829d72a9d535b51ac3e51b72dc1b3bb811a01f941b6"
+  },
+  {
+    "id": 33,
+    "title": "掉落的盾牌",
+    "source": "展板-9.7.pdf 第 33 页；未命名文件夹/展板-9.7_33.png",
+    "board": "assets/boards/33.jpg",
+    "artwork": "assets/artworks-v2/33.png",
+    "crop_on_2000px_board": [
+      80,
+      400,
+      1253,
+      1190
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "c9a4a954531180620bc1145409642d342a4516fbef3e92118ed78088b55dd1be"
+  },
+  {
+    "id": 34,
+    "title": "水晶信封",
+    "source": "展板-9.7.pdf 第 34 页；未命名文件夹/展板-9.7_34.png",
+    "board": "assets/boards/34.jpg",
+    "artwork": "assets/artworks-v2/34.png",
+    "crop_on_2000px_board": [
+      80,
+      400,
+      1253,
+      1190
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "7d9d04bc31b17ea3aa318523a21e50636deec61485ac66717eef20ebeeba76a0"
+  },
+  {
+    "id": 35,
+    "title": "失衡的世界",
+    "source": "展板-9.7.pdf 第 35 页；未命名文件夹/展板-9.7_35.png",
+    "board": "assets/boards/35.jpg",
+    "artwork": "assets/artworks-v2/35.png",
+    "crop_on_2000px_board": [
+      80,
+      400,
+      1253,
+      1190
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "f623bb90fe3daab96a4ad31cfb0a8f7e48656fc863f6570618d2ad5ec95ede3d"
+  },
+  {
+    "id": 36,
+    "title": "倒戈",
+    "source": "展板-9.7.pdf 第 36 页；未命名文件夹/展板-9.7_36.png",
+    "board": "assets/boards/36.jpg",
+    "artwork": "assets/artworks-v2/36.png",
+    "crop_on_2000px_board": [
+      80,
+      400,
+      1253,
+      1190
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "3da1b8a92a02ee8473065542c82a183d8bab895281141fa5cfb145744c2cd796"
+  },
+  {
+    "id": 37,
+    "title": "承受的瞬间",
+    "source": "展板-9.7.pdf 第 37 页；未命名文件夹/展板-9.7_37.png",
+    "board": "assets/boards/37.jpg",
+    "artwork": "assets/artworks-v2/37.png",
+    "crop_on_2000px_board": [
+      80,
+      400,
+      1253,
+      1190
+    ],
+    "processing": "全展板按比例缩小；缩略图矩形截取原图区域，未改色、重绘、生成或插值补全。完整展板始终可查看。",
+    "sha256": "28805bc27b5f8f5ae5aecd73d69922b572a42ae7bf21cac8dce83e25c9439dbe"
+  },
+  {
+    "asset": "assets/dti-original.png",
+    "source": "副本医影·真镜·智绘（状态确认表）.xlsx / xl/media/image37.jpeg",
+    "crop": [
+      0,
+      1240,
+      1334,
+      2330
+    ],
+    "processing": "仅分离组合图中完整的下方 DTI 图，保留原有黑底、原色与比例。",
+    "sha256_of_original": "8096925b4de64e6f4417640a5011664ce738d61fc892b7489f74d08115c72451"
+  },
+  {
+    "asset": "assets/fish-principal-v2.png",
+    "source_asset": "assets/fish-principal-source.png",
+    "source": "终稿-0723.pdf 第28页，Image132.jpg，矩形区域 [468,202,1154,568]",
+    "source_size": [
+      1283,
+      1134
+    ],
+    "output_size": [
+      677,
+      362
+    ],
+    "processing": "仅对非医学装饰主视觉建立白底透明度；RGB逐像素保持与原裁切图一致，alpha=clamp((250-min(R,G,B))/55,0,1)^0.6。没有生成、补绘、形状重构、改色或超分辨率。医学图像不使用此处理。",
+    "source_sha256": "6e8a4e03a3edde46b823d6b82fcbbf388f12fd51c87ad51d5c70240f39474273",
+    "additional_crop": [
+      5,
+      3,
+      682,
+      365
+    ]
+  },
+  {
+    "asset": "assets/fish-principal-dark.png",
+    "derived_from": "assets/fish-principal-v2.png",
+    "processing": "装饰鱼尾透明图预合成至网页统一深色背景 #080b12，避免浏览器透明合成差异；未生成或重绘内容。"
+  },
+  {
+    "asset": "assets/fish-tail-hd.png",
+    "source": "未命名文件夹/展板-9.7_05.png，对应展板-9.7.pdf 第5页，智绘展区主视觉",
+    "source_intermediate": "work/source-hero/chapter-art-high.jpg，原文件等比缩至4000px",
+    "crop": [
+      2720,
+      0,
+      4000,
+      2667
+    ],
+    "processing": "非医学装饰素材：矩形提取右侧无文字的鱼尾局部；RGB保持源图，采用与源背景接近且连通外缘的像素提取背景透明度，保留封闭的白色高光；轻微羽化裁切左缘。没有生成、重绘、补全或改色。",
+    "output_size": [
+      1152,
+      2400
+    ],
+    "source_intermediate_sha256": "7e90c2d6c57ad227c5ae298e53d0be07984111f16f32006cabb0d793e5df7b28"
+  },
+  {
+    "asset": "assets/fish-tail-hd-dark.png",
+    "derived_from": "assets/fish-tail-hd.png",
+    "processing": "装饰鱼尾在网页统一背景 #080b12 上预合成。"
+  }
+]
